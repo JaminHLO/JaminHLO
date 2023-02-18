@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaminHLO
-- 👀 I’m interested in Law and Programming
+- 👀 I’m interested in Programming and Law
 - 🌱 I’m currently learning web development after a 20 year hiatus
 - 💞️ I’m looking to collaborate on programming and legal issues 
 - 📫 How to reach me: jamin.hogan@gmail.com
