@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaminHLO
 - 👀 I’m interested in Programming and Law
-- 🌱 I’m currently learning web development after a 20 year hiatus
+- 🌱 I’m currently sharpening my software development skills to catch up to latest technology
 - 💞️ I’m looking to collaborate on programming and legal issues 
 - 📫 How to reach me: jamin.hogan@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jamin-hogan-esq-psd-45257211/
